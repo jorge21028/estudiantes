@@ -1,0 +1,628 @@
+¿Qué es una relación opcional?
+A. Relación obligatoria en todos los casos
+B. Relación donde la participación no es obligatoria
+C. Relación sin claves
+D. Relación duplicada
+ANSWER: B
+
+¿Qué es una relación obligatoria?
+A. Relación donde todas las entidades deben participar
+B. Relación temporal
+C. Relación sin integridad
+D. Relación opcional
+ANSWER: A
+
+¿Qué es una superclave?
+A. Conjunto de atributos que identifica registros
+B. Clave duplicada
+C. Clave foránea
+D. Índice secundario
+ANSWER: A
+
+¿Qué es una clave candidata?
+A. Clave duplicada
+B. Atributo que puede ser clave primaria
+C. Clave foránea
+D. Campo opcional
+ANSWER: B
+
+¿Qué es una clave compuesta?
+A. Clave formada por varios atributos
+B. Clave única simple
+C. Clave duplicada
+D. Índice automático
+ANSWER: A
+
+¿Qué es un dominio en base de datos?
+A. Sitio web
+B. Conjunto de valores permitidos para un atributo
+C. Tabla secundaria
+D. Clave externa
+ANSWER: B
+
+¿Qué es un diccionario de datos?
+A. Manual impreso
+B. Documento que describe estructura y atributos
+C. Copia de seguridad
+D. Programa antivirus
+ANSWER: B
+
+¿Qué es una consulta con agrupación?
+A. Consulta sin filtros
+B. Consulta que usa GROUP BY
+C. Consulta DELETE
+D. Consulta DROP
+ANSWER: B
+
+¿Qué hace la cláusula HAVING?
+A. Filtra grupos
+B. Ordena registros
+C. Elimina tablas
+D. Inserta datos
+ANSWER: A
+
+¿Qué es una subconsulta?
+A. Consulta dentro de otra consulta
+B. Consulta externa
+C. Índice automático
+D. Tabla temporal
+ANSWER: A
+
+¿Qué es un JOIN?
+A. Eliminación de datos
+B. Unión de tablas relacionadas
+C. Creación de índices
+D. Borrado masivo
+ANSWER: B
+
+¿Qué tipo de JOIN devuelve coincidencias en ambas tablas?
+A. LEFT JOIN
+B. RIGHT JOIN
+C. INNER JOIN
+D. FULL DELETE
+ANSWER: C
+
+¿Qué es LEFT JOIN?
+A. Devuelve todos los registros de la tabla izquierda
+B. Elimina registros izquierdos
+C. Une tablas sin condición
+D. Borra tabla derecha
+ANSWER: A
+
+¿Qué es RIGHT JOIN?
+A. Devuelve todos los registros de la tabla derecha
+B. Borra tabla derecha
+C. Ordena tabla
+D. Duplica registros
+ANSWER: A
+
+¿Qué es una clave artificial?
+A. Clave generada automáticamente
+B. Clave natural
+C. Clave duplicada
+D. Clave externa
+ANSWER: A
+
+¿Qué es una clave natural?
+A. Clave basada en datos reales del negocio
+B. Clave automática
+C. Clave compuesta siempre
+D. Clave duplicada
+ANSWER: A
+
+¿Qué es un campo autoincremental?
+A. Campo que aumenta automáticamente
+B. Campo manual
+C. Campo opcional
+D. Campo duplicado
+ANSWER: A
+
+¿Qué es un respaldo incremental?
+A. Copia total siempre
+B. Copia solo de cambios recientes
+C. Eliminación automática
+D. Índice nuevo
+ANSWER: B
+
+¿Qué es un respaldo completo?
+A. Copia parcial
+B. Copia total de la base de datos
+C. Copia de una tabla
+D. Copia temporal
+ANSWER: B
+
+¿Qué es disponibilidad?
+A. Tiempo que sistema está operativo
+B. Tiempo apagado
+C. Tiempo de diseño
+D. Tiempo de programación
+ANSWER: A
+
+¿Qué es concurrencia?
+A. Acceso simultáneo de varios usuarios
+B. Acceso único
+C. Acceso bloqueado
+D. Sin acceso
+ANSWER: A
+
+¿Qué es bloqueo (lock)?
+A. Permiso total
+B. Restricción temporal de acceso a datos
+C. Eliminación de tabla
+D. Consulta automática
+ANSWER: B
+
+¿Qué es una vista materializada?
+A. Vista con datos almacenados físicamente
+B. Vista virtual
+C. Tabla eliminada
+D. Clave primaria
+ANSWER: A
+
+¿Qué es particionamiento?
+A. División de datos en partes
+B. Eliminación total
+C. Duplicación completa
+D. Copia manual
+ANSWER: A
+
+¿Qué es un plan de mantenimiento?
+A. Estrategia para conservar rendimiento
+B. Eliminación de tablas
+C. Creación de claves
+D. Diseño visual
+ANSWER: A
+
+¿Qué es monitoreo?
+A. Supervisión del funcionamiento del sistema
+B. Eliminación automática
+C. Inserción masiva
+D. Copia externa
+ANSWER: A
+
+¿Qué es análisis de requisitos?
+A. Programación directa
+B. Identificación de necesidades del usuario
+C. Eliminación de datos
+D. Copia de seguridad
+ANSWER: B
+
+¿Qué es documentación técnica?
+A. Archivo sin utilidad
+B. Registro detallado del diseño y estructura
+C. Tabla duplicada
+D. Clave externa
+ANSWER: B
+
+¿Qué es migración de base de datos?
+A. Cambio de datos a otro sistema
+B. Eliminación total
+C. Duplicación automática
+D. Copia parcial
+ANSWER: A
+
+¿Qué es integridad de entidad?
+A. Cada tabla debe tener clave primaria
+B. Duplicación de datos
+C. Eliminación de registros
+D. Sin reglas
+ANSWER: A
+
+¿Qué es integridad de dominio?
+A. Valores válidos según tipo de dato
+B. Claves duplicadas
+C. Eliminación de dominio
+D. Copia manual
+ANSWER: A
+
+¿Qué es integridad referencial en eliminación en cascada?
+A. Borra solo tabla principal
+B. Borra registros relacionados automáticamente
+C. No borra nada
+D. Duplica datos
+ANSWER: B
+
+¿Qué es rendimiento óptimo?
+A. Sistema lento
+B. Sistema eficiente y rápido
+C. Sistema apagado
+D. Sistema sin datos
+ANSWER: B
+
+¿Qué es análisis lógico antes del diseño físico?
+A. Crear tablas sin plan
+B. Definir estructura antes de implementar
+C. Borrar datos
+D. Insertar registros
+ANSWER: B
+¿Qué es un requisito funcional en una base de datos?
+A. Una condición técnica del servidor
+B. Una acción que el sistema debe realizar
+C. Un diseño visual
+D. Un tipo de hardware
+ANSWER: B
+
+¿Qué es un requisito no funcional?
+A. Una operación CRUD
+B. Una condición de rendimiento o seguridad
+C. Una tabla
+D. Una clave primaria
+ANSWER: B
+
+¿Qué es el modelo entidad–relación?
+A. Un lenguaje de programación
+B. Un modelo gráfico para diseñar bases de datos
+C. Un tipo de servidor
+D. Un software contable
+ANSWER: B
+
+¿Qué representa una entidad?
+A. Un cálculo matemático
+B. Un objeto o concepto del mundo real
+C. Una consulta SQL
+D. Una clave duplicada
+ANSWER: B
+
+¿Qué es un atributo?
+A. Una relación
+B. Una propiedad de una entidad
+C. Una tabla secundaria
+D. Un índice
+ANSWER: B
+
+¿Qué es un atributo compuesto?
+A. Un atributo obligatorio
+B. Un atributo formado por varios subatributos
+C. Un atributo repetido
+D. Una clave foránea
+ANSWER: B
+
+¿Qué es un atributo multivaluado?
+A. Un atributo con varios valores para un registro
+B. Un atributo único
+C. Un atributo nulo
+D. Un atributo calculado
+ANSWER: A
+
+¿Qué indica la cardinalidad en una relación?
+A. El tamaño del servidor
+B. La cantidad de tablas
+C. El número de ocurrencias entre entidades
+D. El tipo de dato
+ANSWER: C
+
+¿Cuál es un ejemplo de relación uno a uno?
+A. Estudiante–Cursos
+B. Persona–Cédula
+C. Cliente–Pedidos
+D. Autor–Libros
+ANSWER: B
+
+¿Qué es una relación muchos a muchos?
+A. Una relación directa sin tabla intermedia
+B. Una relación que requiere tabla puente
+C. Una clave primaria duplicada
+D. Una vista
+ANSWER: B
+
+¿Qué es una tabla intermedia?
+A. Tabla temporal
+B. Tabla que resuelve relación muchos a muchos
+C. Tabla sin claves
+D. Tabla de respaldo
+ANSWER: B
+
+¿Qué es integridad referencial?
+A. Duplicación de datos
+B. Consistencia entre claves primarias y foráneas
+C. Eliminación masiva
+D. Creación automática
+ANSWER: B
+
+¿Qué es redundancia de datos?
+A. Datos almacenados una sola vez
+B. Repetición innecesaria de información
+C. Eliminación de registros
+D. Uso de índices
+ANSWER: B
+
+¿Qué es una consulta?
+A. Un respaldo
+B. Una instrucción para recuperar datos
+C. Un error
+D. Un diagrama
+ANSWER: B
+
+¿Qué cláusula filtra resultados en SQL?
+A. ORDER BY
+B. WHERE
+C. GROUP
+D. FROM
+ANSWER: B
+
+¿Qué cláusula ordena resultados?
+A. WHERE
+B. SELECT
+C. ORDER BY
+D. DELETE
+ANSWER: C
+
+¿Qué función cuenta registros?
+A. SUM
+B. COUNT
+C. AVG
+D. MAX
+ANSWER: B
+
+¿Qué función calcula promedio?
+A. COUNT
+B. SUM
+C. AVG
+D. MIN
+ANSWER: C
+
+¿Qué significa CRUD?
+A. Crear, Leer, Actualizar, Eliminar
+B. Copiar, Revisar, Unir, Diseñar
+C. Crear, Reiniciar, Usar, Dibujar
+D. Controlar, Repetir, Unir, Dividir
+ANSWER: A
+
+¿Qué es un índice?
+A. Un gráfico
+B. Una estructura que acelera búsquedas
+C. Una clave foránea
+D. Una relación
+ANSWER: B
+
+¿Qué es una vista?
+A. Tabla física
+B. Consulta almacenada como tabla virtual
+C. Copia de seguridad
+D. Relación uno a uno
+ANSWER: B
+
+¿Qué es un diagrama ER?
+A. Código SQL
+B. Representación gráfica de entidades y relaciones
+C. Archivo ejecutable
+D. Documento PDF
+ANSWER: B
+
+¿Qué es una transacción?
+A. Un respaldo automático
+B. Conjunto de operaciones que se ejecutan como unidad
+C. Un índice
+D. Una tabla
+ANSWER: B
+
+¿Qué significa atomicidad?
+A. División de datos
+B. Todo o nada en una transacción
+C. Ordenamiento
+D. Consulta múltiple
+ANSWER: B
+
+¿Qué es consistencia en bases de datos?
+A. Cambios sin reglas
+B. Cumplimiento de reglas de integridad
+C. Eliminación de tablas
+D. Duplicación de registros
+ANSWER: B
+
+¿Qué es aislamiento?
+A. Acceso público
+B. Independencia entre transacciones
+C. Eliminación total
+D. Copia manual
+ANSWER: B
+
+¿Qué es durabilidad?
+A. Datos temporales
+B. Persistencia después de confirmar transacción
+C. Eliminación rápida
+D. Consulta compleja
+ANSWER: B
+
+¿Qué tipo de dato almacena texto?
+A. INT
+B. VARCHAR
+C. DATE
+D. FLOAT
+ANSWER: B
+
+¿Qué tipo de dato almacena números enteros?
+A. INT
+B. CHAR
+C. DATE
+D. TEXT
+ANSWER: A
+
+¿Qué tipo de dato almacena fechas?
+A. VARCHAR
+B. FLOAT
+C. DATE
+D. BOOLEAN
+ANSWER: C
+
+¿Qué es una restricción NOT NULL?
+A. Permite valores vacíos
+B. Impide valores nulos
+C. Duplica registros
+D. Borra datos
+ANSWER: B
+
+¿Qué hace la restricción UNIQUE?
+A. Permite duplicados
+B. Garantiza valores únicos
+C. Elimina registros
+D. Crea índices
+ANSWER: B
+
+¿Qué es una copia de seguridad?
+A. Consulta avanzada
+B. Respaldo de datos
+C. Tabla intermedia
+D. Relación uno a muchos
+ANSWER: B
+
+¿Qué es restaurar una base de datos?
+A. Borrar registros
+B. Recuperar datos desde respaldo
+C. Crear índices
+D. Ejecutar consultas
+ANSWER: B
+
+¿Qué es un disparador (trigger)?
+A. Consulta manual
+B. Procedimiento automático ante evento
+C. Tabla secundaria
+D. Relación
+ANSWER: B
+
+¿Qué es un procedimiento almacenado?
+A. Consulta temporal
+B. Conjunto de instrucciones guardadas
+C. Índice duplicado
+D. Archivo externo
+ANSWER: B
+
+¿Qué es seguridad en base de datos?
+A. Diseño visual
+B. Protección de acceso a datos
+C. Copia manual
+D. Consulta básica
+ANSWER: B
+
+¿Qué es un usuario en SGBD?
+A. Una tabla
+B. Persona con permisos de acceso
+C. Índice
+D. Consulta
+ANSWER: B
+
+¿Qué es un permiso?
+A. Restricción de hardware
+B. Autorización para realizar acciones
+C. Eliminación automática
+D. Copia de respaldo
+ANSWER: B
+
+¿Qué es modelado conceptual?
+A. Programación directa
+B. Diseño inicial abstracto
+C. Creación física
+D. Consulta SQL
+ANSWER: B
+
+¿Qué es modelado lógico?
+A. Representación independiente del SGBD
+B. Instalación del servidor
+C. Copia de seguridad
+D. Eliminación de datos
+ANSWER: A
+
+¿Qué es modelado físico?
+A. Diseño abstracto
+B. Implementación real en SGBD
+C. Diagrama ER
+D. Ensayo teórico
+ANSWER: B
+
+¿Qué es dependencia funcional?
+A. Relación entre tablas
+B. Relación entre atributos
+C. Copia automática
+D. Índice
+ANSWER: B
+
+¿Qué busca la Segunda Forma Normal?
+A. Eliminar dependencias parciales
+B. Crear tablas nuevas
+C. Duplicar datos
+D. Borrar claves
+ANSWER: A
+
+¿Qué busca la Tercera Forma Normal?
+A. Eliminar dependencias transitivas
+B. Crear índices
+C. Copiar tablas
+D. Borrar registros
+ANSWER: A
+
+¿Qué es un dato?
+A. Información procesada
+B. Unidad mínima de información
+C. Tabla completa
+D. Consulta
+ANSWER: B
+
+¿Qué es información?
+A. Datos sin procesar
+B. Datos organizados y procesados
+C. Tabla vacía
+D. Clave foránea
+ANSWER: B
+
+¿Qué es un campo obligatorio?
+A. Puede quedar vacío
+B. No admite valores nulos
+C. Es opcional
+D. Es duplicado
+ANSWER: B
+
+¿Qué es un sistema centralizado?
+A. Datos distribuidos
+B. Base de datos en un solo servidor
+C. Sin servidor
+D. Base manual
+ANSWER: B
+
+¿Qué es base de datos distribuida?
+A. Datos en múltiples ubicaciones
+B. Datos en papel
+C. Sin relación
+D. Sin seguridad
+ANSWER: A
+
+¿Qué es escalabilidad?
+A. Diseño gráfico
+B. Capacidad de crecer sin perder rendimiento
+C. Eliminar datos
+D. Duplicar registros
+ANSWER: B
+
+¿Qué es rendimiento?
+A. Velocidad y eficiencia del sistema
+B. Tamaño de la tabla
+C. Número de claves
+D. Tipo de dato
+ANSWER: A
+
+¿Qué es validación de datos?
+A. Eliminación automática
+B. Verificación de datos correctos
+C. Copia externa
+D. Relación múltiple
+ANSWER: B
+
+¿Qué es consistencia de datos?
+A. Datos contradictorios
+B. Datos coherentes en todo el sistema
+C. Datos duplicados
+D. Datos borrados
+ANSWER: B
+
+¿Qué es un reporte?
+A. Tabla intermedia
+B. Presentación organizada de datos
+C. Clave foránea
+D. Índice
+ANSWER: B
+
+¿Qué es auditoría?
+A. Control y registro de actividades
+B. Borrar datos
+C. Crear tabla
+D. Consulta simple
+ANSWER: A
