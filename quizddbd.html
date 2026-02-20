@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evaluación Académica DDBD - Prof. Abreu</title>
+    <link rel="stylesheet" href="stylequiz.css">
+</head>
+<body>
+    <div id="app-container">
+        <div id="login-screen" class="card">
+            <h2>Evaluación Diseño y Desarrollo de Base de datos</h2>
+            <p style="text-align: center; color: #666;">Prof. Jorge Luis Abreu</p>
+            <input type="text" id="student-name" placeholder="Nombre completo del estudiante">
+            <input type="password" id="test-pass" placeholder="Contraseña del examen">
+            <button onclick="startExam()">Iniciar Examen</button>
+            <p style="font-size: 0.8rem; margin-top: 15px; color: #888;">* Al iniciar, el examen entrará en pantalla completa.</p>
+        </div>
+
+        <div id="exam-screen" class="card" style="display:none;">
+            <div class="header">
+                <div id="timer">Tiempo: 00:00</div>
+                <div id="progress-text">Pregunta 1 de X</div>
+            </div>
+            <div id="progress-bar-container">
+                <div id="progress-bar"></div>
+            </div>
+            <hr>
+            <div id="question-container">
+                <h3 id="question-text">Cargando pregunta...</h3>
+                <div id="options-container"></div>
+            </div>
+            <button id="next-btn" onclick="nextQuestion()">Siguiente Pregunta</button>
+        </div>
+
+        <div id="result-screen" class="card" style="display:none;">
+            <h2>Examen Finalizado</h2>
+            <div style="text-align: center; margin: 20px 0;">
+                <p id="final-score" style="font-size: 2rem; font-weight: bold; color: #27ae60;"></p>
+                <p>Sus resultados han sido almacenados correctamente en el sistema.</p>
+            </div>
+        </div>
+    </div>
+    <script src="scriptquiz.js"></script>
+</body>
+</html>
